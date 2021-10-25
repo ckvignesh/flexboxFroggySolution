@@ -1,111 +1,111 @@
-### Solving Flexbox Froggy
+# Solving Flexbox Froggy
 
 ## This file contains the solutions for solving all the levels of the Flexbox Froggy game.
 
 ## You can also check the pictures of the solutions, [here](/Pictures)
-## Level 1
+### Level 1
 
 **justify-content: flex-end;**
 
-## Level 2
+### Level 2
 
 **justify-content: center;**
 
-## Level 3
+### Level 3
 
 **justify-content: space-around;**
 
-## Level 4
+### Level 4
 
 **justify-content: space-between;**
 
-## Level 5
+### Level 5
 
 **align-items: flex-end;**
 
-## Level 6
+### Level 6
 
 **justify-content: center;**
 **align-items: center;**
 
-## Level 7
+### Level 7
 
 **align-items: flex-end;**
 **justify-content: space-around;**
 
-## Level 8
+### Level 8
 
 **flex-direction: row-reverse;**
 
-## Level 9
+### Level 9
 
 **flex-direction: column;**
 
-## Level 10
+### Level 10
 
 **flex-direction:row-reverse;**
 **justify-content:flex-end;**
 
-## Level 11
+### Level 11
 
 **flex-direction: column;**
 **justify-content: flex-end;**
 
-## Level 12
+### Level 12
 
 **flex-direction: column-reverse;**
 **justify-content: space-between;**
 
-## Level 13
+### Level 13
 
 **align-items: flex-end;**
 **justify-content: center;**
 **flex-direction: row-reverse;**
 
-## Level 14
+### Level 14
 
 **order: 1;**
 
-## Level 15
+### Level 15
 
 **order: -1;**
 
-## Level 16
+### Level 16
 
 **align-self: flex-end;**
 
-## Level 17
+### Level 17
 
 **align-self:flex-end;**
 **order: 1;**
 
-## Level 18
+### Level 18
 
 **flex-wrap: wrap;**
 
-## Level 19
+### Level 19
 
 **flex-direction: column-reverse;**
 **flex-wrap: wrap;**
 
-## Level 20
+### Level 20
 
 **flex-flow: column wrap;**
 
-## Level 21
+### Level 21
 
 **align-content: flex-start;**
 
-## Level 22
+### Level 22
 
 **align-content: flex-end;**
 
-## Level 23
+### Level 23
 
 **align-content: center;**
 **flex-direction: column-reverse;**
 
-## Level 24
+### Level 24
 
 
 
