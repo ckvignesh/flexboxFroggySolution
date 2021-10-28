@@ -2,8 +2,9 @@
 
 ## This file contains the solutions for solving all the levels of the Flexbox Froggy game.
 
-## You can also check the pictures of the solutions, [here](/Pictures).
+***
 ### Level 1
+![](./Pictures/1.png)
 
 **justify-content: flex-end;**
 
