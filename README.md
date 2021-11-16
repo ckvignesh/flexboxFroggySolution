@@ -3,6 +3,7 @@
 ## This file contains the solutions for solving all the levels of the Flexbox Froggy game.
 
 ***
+***
 ### Level 1
 ![](./Pictures/1.png)
 
